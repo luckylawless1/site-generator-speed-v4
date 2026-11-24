@@ -1,8 +1,8 @@
 # site-generator-speed-v4
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
-[![site-generator-speed-01-run-20261122](https://img.shields.io/badge/site--generator--speed--01-run--20261122-2563eb)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
-[![make.fun entry](https://img.shields.io/badge/make.fun-entry-f59e0b)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
+[![make.fun bounty](https://make.fun/badge/site-generator-speed-01-run-20261122.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
+[![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/luckylawless1/site-generator-speed-v4/rank.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
+[![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/luckylawless1/site-generator-speed-v4/reward.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122)
 
 A faster drop-in for make.fun's makefun-site 1.0.0, written from scratch from the kit
 spec for the [site-generator-speed-01-run-20261122](https://make.fun/bounty/site-generator-speed-01-run-20261122)
